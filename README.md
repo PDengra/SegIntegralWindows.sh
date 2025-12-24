@@ -14,6 +14,4 @@ He desarrollado un script avanzado en PowerShell que combina auditoría de segur
 
 El objetivo es pasar de una auditoría básica a una auditoría integral automatizada, transformando una tarea manual en un proceso preventivo y orientado al hardening, ayudando a reducir la superficie de ataque y mejorar la seguridad del sistema.
 
-📌 Proyecto en mi GitHub 👉 https://lnkd.in/esWShHnY
-
 #Windows #SysAdmin #SeguridadInformática #Automatización #PowerShell #Auditoría #Hardening #Ciberseguridad #TI #AdministraciónDeSistemas #Scripting #Monitorización #SeguridadWindows
